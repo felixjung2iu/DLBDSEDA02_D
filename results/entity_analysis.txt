@@ -1,0 +1,18 @@
+>> Top 10 Häufigste Hashtags:
+  #afd: 113
+  #bundestag: 68
+  #btw21: 61
+  #corona: 53
+  #berlin: 39
+  #cdu: 37
+  #afghanistan: 34
+  #brandner: 29
+  #deutschlandabernormal: 29
+  #wirholendasdirektmandat: 26
+
+>> Top 5 Aktivste/Meistgenannte User:
+  @olafscholz: 64
+  @arminlaschet: 58
+  @abaerbock: 40
+  @cdu: 37
+  @die_gruenen: 31

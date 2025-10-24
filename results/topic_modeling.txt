@@ -1,0 +1,64 @@
+Ergebnisse der Latent Dirichlet Allocation (LDA)
+
+Die Zahlen geben die Wahrscheinlichkeit an.
+Format: [Keyword : Wahrscheinlichkeit]
+
+Thema 1
+welt : 0.0123
+eu : 0.0117
+grünen : 0.0097
+menschen : 0.0083
+land : 0.0078
+corona : 0.0075
+klar : 0.0074
+thema : 0.0073
+baerbock : 0.0071
+pandemie : 0.0059
+
+Thema 2
+berlin : 0.0112
+afd : 0.0109
+menschen : 0.0107
+deutschland : 0.0103
+morgen : 0.0101
+corona : 0.0078
+lassen : 0.0071
+spd : 0.0063
+mai : 0.0062
+covid : 0.0062
+
+Thema 3
+politik : 0.0128
+deutschland : 0.0104
+union : 0.0096
+afd : 0.0084
+brauchen : 0.0084
+olaf : 0.0081
+scholz : 0.0073
+laschet : 0.0070
+cdu : 0.0070
+merkel : 0.0068
+
+Thema 4
+spd : 0.0162
+cdu : 0.0127
+bundestag : 0.0111
+unserer : 0.0077
+csu : 0.0069
+ganz : 0.0069
+demokratie : 0.0066
+menschen : 0.0063
+partei : 0.0061
+wurde : 0.0061
+
+Thema 5
+deutschland : 0.0125
+menschen : 0.0098
+neue : 0.0088
+endlich : 0.0084
+pandemie : 0.0077
+bundesregierung : 0.0077
+csu : 0.0074
+klimaschutz : 0.0072
+corona : 0.0070
+kinder : 0.0064
