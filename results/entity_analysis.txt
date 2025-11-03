@@ -1,4 +1,4 @@
->> Top 10 Häufigste Hashtags:
+Top 10 Häufigste Hashtags:
   #afd: 113
   #bundestag: 68
   #btw21: 61
@@ -10,7 +10,7 @@
   #deutschlandabernormal: 29
   #wirholendasdirektmandat: 26
 
->> Top 5 Aktivste/Meistgenannte User:
+Top 5 Aktivste/Meistgenannte User:
   @olafscholz: 64
   @arminlaschet: 58
   @abaerbock: 40

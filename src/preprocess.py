@@ -24,7 +24,9 @@ IRRELEVANT_TWITTER_TERMS = {'de', 'com', 'thread', 'anzeigen', 'aug', 'uhr', 'li
                            'ja', 'lieber', 'wer', 'innen', 'glückwunsch', 'herzlichen', 'neuen', 
                            'dabei', 'gut', 'gute', 'guten', 'dank', 'danke', 'sagt', 'tun', 
                            'tag', 'woche', 'monate', 'märz', 'juni', 'zeit', 'beim', 'co', 
-                           'gerade', 'vielen', 'freue', 'letzten', 'jahren', 'viele', 'jan'} 
+                           'gerade', 'vielen', 'freue', 'letzten', 'jahren', 'viele', 'jan',
+                           'morgen', 'ganz', 'statt', 'rund', 'darf', 'kommt', 'neue', 
+                           'leben', 'ab', 'ab', 'neue', 'brauchen', 'zeigt', 'seit', 'unserer'} 
 COMBINED_STOPWORDS.update(IRRELEVANT_TWITTER_TERMS) 
 
 # Bereinigt den Text: entfernt URLs, Mentions und Sonderzeichen
